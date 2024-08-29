@@ -1,8 +1,8 @@
 {
   "name": "sweetalert2",
   "version": "11.12.4",
-  "repository": "sweetalert2/sweetalert2",
-  "homepage": "https://sweetalert2.github.io/",
+  "repository": "imanmagomedov/sweetalert2",
+  "homepage": "https://github.com/imanmagomedov/sweetalert2",
   "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert",
   "main": "dist/sweetalert2.all.js",
   "browser": "dist/sweetalert2.all.js",
@@ -38,15 +38,8 @@
     "src",
     "sweetalert2.d.ts"
   ],
-  "author": "Limon Monte (https://limonte.github.io)",
-  "contributors": [
-    "Matthew Francis Brunetti <zenflow87@gmail.com> (https://github.com/zenflow)",
-    "Morgan Touverey-Quilling <mtouverey@alembic-dev.com> (https://github.com/toverux)",
-    "Giuseppe Verni (https://github.com/gverni)",
-    "Sam Turrell <sam@samturrell.co.uk> (https://github.com/samturrell)",
-    "Joseph Schultz (https://github.com/acupofjose)",
-    "Johan Fagerberg (https://github.com/birjolaxew)"
-  ],
+  "author": "Said Imanmagomedov",
+  "contributors": [],
   "keywords": [
     "sweetalert",
     "sweetalert2",
@@ -67,10 +60,6 @@
     "cypress:open": "cypress open",
     "webpack-build": "webpack --config=test/webpack/webpack.config.js"
   },
-  "funding": {
-    "type": "individual",
-    "url": "https://github.com/sponsors/limonte"
-  },
   "prettier": {
     "printWidth": 120,
     "semi": false,
@@ -78,6 +67,5 @@
     "quoteProps": "consistent",
     "trailingComma": "es5"
   },
-  "bugs": "https://github.com/sweetalert2/sweetalert2/issues",
   "license": "MIT"
 }
